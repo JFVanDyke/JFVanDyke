@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**JFVanDyke/JFVanDyke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JFVanDyke/JFVanDyke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 Some info about me:
